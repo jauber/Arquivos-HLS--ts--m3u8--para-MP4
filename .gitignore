@@ -1,0 +1,15 @@
+qpp_gui_pyqt6.spec
+build/qpp_gui_pyqt6/Analysis-00.toc
+build/qpp_gui_pyqt6/base_library.zip
+build/qpp_gui_pyqt6/EXE-00.toc
+build/qpp_gui_pyqt6/PKG-00.toc
+build/qpp_gui_pyqt6/PYZ-00.pyz
+build/qpp_gui_pyqt6/PYZ-00.toc
+build/qpp_gui_pyqt6/qpp_gui_pyqt6.pkg
+build/qpp_gui_pyqt6/warn-qpp_gui_pyqt6.txt
+build/qpp_gui_pyqt6/xref-qpp_gui_pyqt6.html
+build/qpp_gui_pyqt6/localpycs/pyimod01_archive.pyc
+build/qpp_gui_pyqt6/localpycs/pyimod02_importers.pyc
+build/qpp_gui_pyqt6/localpycs/pyimod03_ctypes.pyc
+build/qpp_gui_pyqt6/localpycs/pyimod04_pywin32.pyc
+build/qpp_gui_pyqt6/localpycs/struct.pyc

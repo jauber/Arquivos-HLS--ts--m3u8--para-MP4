@@ -207,7 +207,8 @@ class MainWindow(QMainWindow):
             self.input_dest.setText(pasta)
 
     def iniciar_download(self):
-        url = self.input_url.text().strip()
+        #url = self.input_url.text().strip() # objeto QLineEdit
+        url = self.input_url.toPlainText().strip() # objeto QTextEdit
         pasta = self.input_dest.text().strip()
         if not url:
             QMessageBox.warning(self, "Atenção", "Informe a URL do arquivo .m3u8.")
